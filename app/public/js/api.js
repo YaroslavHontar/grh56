@@ -5,7 +5,7 @@ $(document).ready(function () {
         /* clearing results */
         div.innerHTML = "";
         let word = document.getElementById("word_search").value;
-        fetch("https://www.dictionaryapi.com/api/v3/references/learners/json/" + word + "?key=397a4020-5d86-43ad-bbc7-03bc84db852b")
+        fetch("https://www.dictionaryapi.com/api/v3/references/learners/json/" + word + "?key******************")
             .then(function (response) {
                 return response.json();
             })
