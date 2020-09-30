@@ -1,4 +1,6 @@
  GRH56
+ 
+ ## http://www.grhformation.fr
 
 GRH56 is an apprenteship project to create a personal website for an english courses teacher.
 
@@ -19,18 +21,6 @@ GRH56 is an apprenteship project to create a personal website for an english cou
 
 ## DB connection
 * Connection to DB in  set in Manager.php file
-
-## Testing the website
-* Clone the repo
-* Import the DB
-* User account: 
-    - Name: student@gmail.com
-    - Password: Student0
-* Admin account:
-    - grh56@gmail.com  
-    - Password: Admin1
-    
-## http://www.grhformation.fr
 
 ## TO DO
 *  - Set environmental variables for DB access.
