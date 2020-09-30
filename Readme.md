@@ -30,7 +30,7 @@ GRH56 is an apprenteship project to create a personal website for an english cou
     - grh56@gmail.com  
     - Password: Admin1
     
-## http://www.greta-bretagne-sud.fr/stagiaires/yaroslav-hontar/GRH56
+## http://www.grhformation.fr
 
 ## TO DO
 *  - Set environmental variables for DB access.
@@ -42,7 +42,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
 
-- Yaroslav <galba.rp@gmail.com>
-- Project link <https://github.com/galba-rp/grh56>
+- Yaroslav <yaroslav.hontar@gmail.com>
+- Project link <https://github.com/YaroslavHontar/grh56>
 
 
